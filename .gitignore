@@ -130,3 +130,5 @@ dmypy.json
 
 # IDE
 .idea/
+.idea/misc.xml
+.idea/recipe-app-api.iml
